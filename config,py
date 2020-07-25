@@ -1,0 +1,6 @@
+settings = {
+	'TOKEN' : 'token',
+	'PREFIX' : '.'
+}
+
+
